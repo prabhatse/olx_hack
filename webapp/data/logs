@@ -1,0 +1,754 @@
+2015-07-22 14:46:10 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Andorra
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Andorra
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Andorra) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: United Arab Emirates
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (United Arab Emirates) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Afghanistan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Afghanistan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Antigua and Barbuda
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Antigua and Barbuda) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Anguilla
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Anguilla) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Albania
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Albania) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Armenia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Armenia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Angola
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Angola) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Antarctica
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Antarctica) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Argentina
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Argentina) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: American Samoa
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (American Samoa) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Austria
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Austria) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Australia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Australia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Aruba
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Aruba) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Åland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Åland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Azerbaijan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Azerbaijan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bosnia and Herzegovina
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bosnia and Herzegovina) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Barbados
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Barbados) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bangladesh
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bangladesh) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Belgium
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Belgium) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Burkina Faso
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Burkina Faso) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bulgaria
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bulgaria) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bahrain
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bahrain) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Burundi
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Burundi) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Benin
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Benin) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Barthélemy
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Barthélemy) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bermuda
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bermuda) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Brunei
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Brunei) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bolivia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bolivia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bonaire
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bonaire) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Brazil
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Brazil) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bahamas
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bahamas) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bhutan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bhutan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Bouvet Island
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Bouvet Island) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Botswana
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Botswana) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Belarus
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Belarus) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Belize
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Belize) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Canada
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Canada) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cocos [Keeling] Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cocos [Keeling] Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Democratic Republic of the Congo
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Democratic Republic of the Congo) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Central African Republic
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Central African Republic) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Republic of the Congo
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Republic of the Congo) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Switzerland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Switzerland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ivory Coast
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ivory Coast) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cook Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cook Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Chile
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Chile) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cameroon
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cameroon) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: China
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (China) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Colombia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Colombia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Costa Rica
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Costa Rica) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cuba
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cuba) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cape Verde
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cape Verde) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Curacao
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Curacao) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Christmas Island
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Christmas Island) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cyprus
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cyprus) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Czech Republic
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Czech Republic) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Germany
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Germany) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Djibouti
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Djibouti) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Denmark
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Denmark) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Dominica
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Dominica) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Dominican Republic
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Dominican Republic) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Algeria
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Algeria) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ecuador
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ecuador) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Estonia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Estonia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Egypt
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Egypt) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Western Sahara
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Western Sahara) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Eritrea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Eritrea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Spain
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Spain) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ethiopia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ethiopia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Finland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Finland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Fiji
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Fiji) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Falkland Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Falkland Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Micronesia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Micronesia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Faroe Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Faroe Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: France
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (France) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Gabon
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Gabon) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: United Kingdom
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (United Kingdom) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Grenada
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Grenada) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Georgia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Georgia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: French Guiana
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (French Guiana) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guernsey
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guernsey) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ghana
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ghana) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Gibraltar
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Gibraltar) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Greenland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Greenland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Gambia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Gambia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guinea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guinea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guadeloupe
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guadeloupe) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Equatorial Guinea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Equatorial Guinea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Greece
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Greece) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: South Georgia and the South Sandwich Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (South Georgia and the South Sandwich Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guatemala
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guatemala) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guam
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guam) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guinea-Bissau
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guinea-Bissau) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Guyana
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Guyana) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Hong Kong
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Hong Kong) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Heard Island and McDonald Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Heard Island and McDonald Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Honduras
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Honduras) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Croatia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Croatia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Haiti
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Haiti) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Hungary
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Hungary) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Indonesia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Indonesia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ireland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ireland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Israel
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Israel) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Isle of Man
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Isle of Man) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: India
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (India) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: British Indian Ocean Territory
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (British Indian Ocean Territory) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Iraq
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Iraq) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Iran
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Iran) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Iceland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Iceland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Italy
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Italy) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Jersey
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Jersey) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Jamaica
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Jamaica) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Jordan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Jordan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Japan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Japan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kenya
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kenya) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kyrgyzstan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kyrgyzstan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cambodia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cambodia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kiribati
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kiribati) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Comoros
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Comoros) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Kitts and Nevis
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Kitts and Nevis) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: North Korea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (North Korea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: South Korea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (South Korea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kuwait
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kuwait) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Cayman Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Cayman Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kazakhstan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kazakhstan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Laos
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Laos) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Lebanon
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Lebanon) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Lucia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Lucia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Liechtenstein
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Liechtenstein) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Sri Lanka
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Sri Lanka) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Liberia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Liberia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Lesotho
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Lesotho) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Lithuania
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Lithuania) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Luxembourg
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Luxembourg) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Latvia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Latvia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Libya
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Libya) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Morocco
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Morocco) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Monaco
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Monaco) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Moldova
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Moldova) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Montenegro
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Montenegro) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Martin
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Martin) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Madagascar
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Madagascar) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Marshall Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Marshall Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Macedonia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Macedonia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mali
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mali) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Myanmar [Burma]
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Myanmar [Burma]) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mongolia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mongolia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Macao
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Macao) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Northern Mariana Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Northern Mariana Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Martinique
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Martinique) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mauritania
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mauritania) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Montserrat
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Montserrat) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Malta
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Malta) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mauritius
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mauritius) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Maldives
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Maldives) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Malawi
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Malawi) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mexico
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mexico) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Malaysia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Malaysia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mozambique
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mozambique) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Namibia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Namibia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: New Caledonia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (New Caledonia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Niger
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Niger) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Norfolk Island
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Norfolk Island) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Nigeria
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Nigeria) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Nicaragua
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Nicaragua) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Netherlands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Netherlands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Norway
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Norway) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Nepal
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Nepal) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Nauru
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Nauru) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Niue
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Niue) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: New Zealand
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (New Zealand) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Oman
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Oman) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Panama
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Panama) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Peru
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Peru) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: French Polynesia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (French Polynesia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Papua New Guinea
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Papua New Guinea) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Philippines
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Philippines) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Pakistan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Pakistan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Poland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Poland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Pierre and Miquelon
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Pierre and Miquelon) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Pitcairn Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Pitcairn Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Puerto Rico
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Puerto Rico) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Palestine
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Palestine) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Portugal
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Portugal) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Palau
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Palau) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Paraguay
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Paraguay) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Qatar
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Qatar) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Réunion
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Réunion) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Romania
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Romania) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Serbia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Serbia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Russia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Russia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Rwanda
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Rwanda) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saudi Arabia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saudi Arabia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Solomon Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Solomon Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Seychelles
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Seychelles) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Sudan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Sudan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Sweden
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Sweden) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Singapore
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Singapore) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Helena
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Helena) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Slovenia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Slovenia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Svalbard and Jan Mayen
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Svalbard and Jan Mayen) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Slovakia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Slovakia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Sierra Leone
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Sierra Leone) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: San Marino
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (San Marino) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Senegal
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Senegal) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Somalia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Somalia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Suriname
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Suriname) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: South Sudan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (South Sudan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: São Tomé and Príncipe
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (São Tomé and Príncipe) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: El Salvador
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (El Salvador) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Sint Maarten
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Sint Maarten) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Syria
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Syria) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Swaziland
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Swaziland) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Turks and Caicos Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Turks and Caicos Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Chad
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Chad) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: French Southern Territories
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (French Southern Territories) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Togo
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Togo) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Thailand
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Thailand) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tajikistan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tajikistan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tokelau
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tokelau) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: East Timor
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (East Timor) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Turkmenistan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Turkmenistan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tunisia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tunisia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tonga
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tonga) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Turkey
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Turkey) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Trinidad and Tobago
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Trinidad and Tobago) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tuvalu
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tuvalu) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Taiwan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Taiwan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Tanzania
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Tanzania) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Ukraine
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Ukraine) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Uganda
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Uganda) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: U.S. Minor Outlying Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (U.S. Minor Outlying Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: United States
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (United States) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Uruguay
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Uruguay) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Uzbekistan
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Uzbekistan) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Vatican City
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Vatican City) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Saint Vincent and the Grenadines
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Saint Vincent and the Grenadines) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Venezuela
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Venezuela) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: British Virgin Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (British Virgin Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: U.S. Virgin Islands
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (U.S. Virgin Islands) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Vietnam
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Vietnam) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Vanuatu
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Vanuatu) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Wallis and Futuna
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Wallis and Futuna) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Samoa
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Samoa) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Kosovo
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Kosovo) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Yemen
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Yemen) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Mayotte
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Mayotte) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: South Africa
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (South Africa) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Zambia
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Zambia) added to DB by ()
+2015-07-22 14:48:28 | 2.0MB | DEBUG  | CountryMySQLDAO::insertCountry,18 | processing country: Zimbabwe
+2015-07-22 14:48:28 | 2.0MB | INFO   | CountryMySQLDAO::insertCountry,66 | Country (Zimbabwe) added to DB by ()
+2015-09-21 14:19:29 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:30 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:33 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:33 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:37 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:46 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:19:53 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 14:24:36 | 0.5MB | INFO   | PDODAO::connect,98 | It's being connected
+2015-09-21 16:24:58 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-21 16:33:49 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 12:56:20 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 12:56:25 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 12:56:25 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 12:56:31 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 13:23:26 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 14:31:14 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 14:31:14 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 14:31:20 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 14:40:07 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-22 14:55:33 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:27:42 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:27:46 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:27:47 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:27:59 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:29:02 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:29:54 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:30:22 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:31:27 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:32:57 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:33:08 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:33:21 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:33:55 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:34:01 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:35:11 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 08:35:17 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 09:19:00 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 09:20:10 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 09:20:15 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 09:20:20 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 09:20:24 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:15:50 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:16:08 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:17:06 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:17:50 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:18:39 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:19:02 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:19:12 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:19:48 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:20:56 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:30:53 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 10:52:14 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:38:07 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:38:38 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:50:59 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:51:04 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:53:19 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:53:26 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:53:38 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:53:55 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:54:49 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:56:53 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:58:37 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:59:20 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 13:59:23 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:00:23 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:00:54 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:04 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:24 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:28 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:38 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:41 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:01:51 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:02:12 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:15:21 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:33:00 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:35:41 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:37:52 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:38:27 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:38:48 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:39:22 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:40:19 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:41:49 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:41:52 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:42:06 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:42:52 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:43:16 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:43:48 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:44:08 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:44:37 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:44:37 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:45:39 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:46:11 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:46:14 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:53:30 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:53:40 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:03 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:07 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:10 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:13 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:15 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:18 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:20 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:22 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:24 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 14:54:27 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:52:14 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:52:18 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:52:18 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:52:22 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:52:36 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:55:26 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 15:58:07 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 16:06:32 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 16:15:42 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 16:15:43 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-23 16:15:47 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:11:04 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:11:18 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:11:57 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:11:58 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:12:07 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:15:10 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:29:22 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-24 20:32:15 | 0.5MB | INFO   | PDODAO::connect,108 | It's being connected
+2015-09-25 12:15:16 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:15:58 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:15:58 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:16:56 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:16:56 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:19:00 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:19:00 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:06 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:06 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:43 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:43 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:46 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:25:46 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:28:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:28:59 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:29:02 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:29:02 | 0.7MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:31:58 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:33:19 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:34:34 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:35:01 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:35:47 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:37:11 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:37:15 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:38:53 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:40:55 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:41:14 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:41:19 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:41:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:44:03 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:46:09 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:46:43 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:46:48 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:47:03 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:47:07 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 12:50:33 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:41:55 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:42:04 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:42:11 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:42:22 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:49:25 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:53:15 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 13:54:42 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 14:52:01 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 14:52:16 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 16:58:21 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 16:59:32 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:00:45 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:01:54 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:02:21 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:02:30 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:02:34 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:02:36 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:03:37 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:03:40 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:03:42 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:03:50 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:03:58 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:04:28 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:04:40 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:09:44 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:10:32 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:18:52 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:19:19 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 17:31:20 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:02:07 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:52:57 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:53:07 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:53:09 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:53:24 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:55:12 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:55:29 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:56:22 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:56:29 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:56:40 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:56:44 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:56:45 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 18:57:55 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:01:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:02:01 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:02:48 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:02:50 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:03:00 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:03:49 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:04:27 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:08:52 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:10:40 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:12:37 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:13:58 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-25 19:14:05 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 09:29:26 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 09:29:44 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 09:29:45 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 10:16:16 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 10:59:16 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 10:59:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 11:21:28 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 11:28:48 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 11:32:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 11:36:25 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 11:37:39 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:05:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:10:25 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:12:20 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:17:52 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:18:21 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:19:23 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:20:00 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:25:35 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:25:42 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:26:07 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:26:15 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:26:19 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:26:42 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:27:14 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:28:27 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:35:41 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:35:53 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:36:40 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:37:59 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:40:00 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:41:42 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:42:16 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 12:45:32 | 0.5MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 13:12:36 | 0.4MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 13:16:32 | 0.4MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 13:17:48 | 0.4MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 13:20:42 | 0.4MB | INFO   | PDODAO::connect,113 | It's being connected
+2015-09-26 13:51:29 | 0.4MB | INFO   | PDODAO::connect,113 | It's being connected
